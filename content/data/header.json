@@ -48,7 +48,7 @@
             "elementId": ""
         }
     ],
-    "variant": "logo-left-primary-nav-right",
+    "variant": "logo-centered-primary-nav-centered",
     "colors": "bg-light-fg-dark",
     "type": "Header"
 }
