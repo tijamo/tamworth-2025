@@ -38,7 +38,7 @@
         },
         {
             "type": "Button",
-            "label": "Get started",
+            "label": "Who We Are",
             "altText": "",
             "url": "/who-we-are",
             "showIcon": false,
