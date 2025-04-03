@@ -35,19 +35,7 @@
             "elementId": ""
         }
     ],
-    "secondaryLinks": [
-        {
-            "type": "Button",
-            "label": "Who We Are",
-            "altText": "",
-            "url": "/who-we-are",
-            "showIcon": false,
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "elementId": ""
-        }
-    ],
+    "secondaryLinks": [],
     "variant": "logo-left-primary-nav-right",
     "colors": "bg-light-fg-dark",
     "type": "Header"
