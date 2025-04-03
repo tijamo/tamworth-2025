@@ -2,12 +2,6 @@
     "text": "",
     "socialLinks": [
         {
-            "altText": "LinkedIn link",
-            "url": "https://www.linkedin.com/company/netlify",
-            "icon": "linkedin",
-            "type": "Social"
-        },
-        {
             "altText": "Email link",
             "url": "/",
             "icon": "mail",
