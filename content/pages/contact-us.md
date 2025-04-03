@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Who We Are
+title: Contact Us
 sections:
   - type: GenericSection
     title:
