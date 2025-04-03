@@ -26,7 +26,7 @@
         {
             "type": "Link",
             "label": "Get In Touch",
-            "altText": "",
+            "altText": "Get In Touch",
             "url": "/contact-us",
             "showIcon": false,
             "icon": "arrowRight",
