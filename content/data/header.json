@@ -37,7 +37,7 @@
         {
             "type": "Link",
             "label": "Who We Are",
-            "altText": "",
+            "altText": "Who We Are",
             "url": "/who-we-are",
             "showIcon": false,
             "icon": "arrowRight",
