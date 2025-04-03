@@ -29,11 +29,7 @@ sections:
         self:
           textAlign: left
     subtitle: Section with a video subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: "You can expect a warm friendly welcome from our members if you decide to join us on a Sunday morning.\n\nOur Sunday service starts at about 11.00 am and usually finishes by 12.30pm. From 10.30am,\_ we serve tea, coffee, juice and biscuits (there might be some cake if you’re really lucky). This is a great opportunity to say hello and get to know us a bit better. We would love to meet you!\n"
     actions: []
     media:
       type: VideoBlock
