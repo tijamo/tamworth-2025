@@ -14,7 +14,7 @@
     "primaryLinks": [
         {
             "type": "Button",
-            "label": "Get started",
+            "label": "Visit Us",
             "altText": "",
             "url": "/visit-us",
             "showIcon": false,
