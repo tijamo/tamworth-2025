@@ -35,6 +35,17 @@
             "iconPosition": "right",
             "style": "secondary",
             "elementId": ""
+        },
+        {
+            "type": "Button",
+            "label": "Get started",
+            "altText": "",
+            "url": "/who-we-are",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "elementId": ""
         }
     ],
     "variant": "logo-left-primary-nav-centered",
