@@ -26,7 +26,7 @@ sections:
         textAlign: left
     media:
       type: ImageBlock
-      url: /images/hero2.svg
+      url: /images/resized-image-Promo-a0163073.jpeg
       altText: Image alt text placeholder
       elementId: ''
       styles:
