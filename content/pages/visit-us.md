@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Who We Are
+title: Visit Us
 sections:
   - type: GenericSection
     title:
