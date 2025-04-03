@@ -23,7 +23,7 @@ postFeed:
   showThumbnail: false
   showExcerpt: false
   showDate: false
-  showAuthor: true
+  showAuthor: false
   actions: []
   elementId: null
   variant: three-col-grid
