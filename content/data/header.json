@@ -27,17 +27,6 @@
     "secondaryLinks": [
         {
             "type": "Button",
-            "label": "Contact Us",
-            "altText": "",
-            "url": "",
-            "showIcon": false,
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "elementId": ""
-        },
-        {
-            "type": "Button",
             "label": "Who We Are",
             "altText": "",
             "url": "/who-we-are",
