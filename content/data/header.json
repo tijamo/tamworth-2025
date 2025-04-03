@@ -1,7 +1,7 @@
 {
     "logo": {
         "url": "/images/logo-external.svg",
-        "altText": "Logo dark",
+        "altText": "Tamworth Church Logo",
         "styles": {
             "self": {
                 "margin": [
@@ -11,9 +11,44 @@
         },
         "type": "ImageBlock"
     },
-    "primaryLinks": [],
-    "secondaryLinks": [],
-    "variant": "logo-left-primary-nav-centered",
+    "primaryLinks": [
+        {
+            "type": "Button",
+            "label": "Visit Us",
+            "altText": "",
+            "url": "/visit-us",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "primary",
+            "elementId": ""
+        }
+    ],
+    "secondaryLinks": [
+        {
+            "type": "Button",
+            "label": "Contact Us",
+            "altText": "",
+            "url": "/contact-us",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "elementId": ""
+        },
+        {
+            "type": "Button",
+            "label": "Who We Are",
+            "altText": "",
+            "url": "/who-we-are",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "elementId": ""
+        }
+    ],
+    "variant": "logo-left-primary-nav-right",
     "colors": "bg-light-fg-dark",
     "type": "Header"
 }
