@@ -14,9 +14,9 @@
     "primaryLinks": [
         {
             "type": "Link",
-            "label": "Get In Touch",
-            "altText": "Get In Touch",
-            "url": "/contact-us",
+            "label": "Who We Are",
+            "altText": "Who We Are",
+            "url": "/who-we-are",
             "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
@@ -25,9 +25,9 @@
         },
         {
             "type": "Link",
-            "label": "Who We Are",
-            "altText": "Who We Are",
-            "url": "/who-we-are",
+            "label": "Get In Touch",
+            "altText": "Get In Touch",
+            "url": "/contact-us",
             "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
