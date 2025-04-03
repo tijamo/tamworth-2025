@@ -29,7 +29,7 @@
             "type": "Button",
             "label": "Contact Us",
             "altText": "",
-            "url": "/contact-us",
+            "url": "",
             "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
