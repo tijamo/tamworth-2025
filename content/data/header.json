@@ -13,17 +13,6 @@
     },
     "primaryLinks": [
         {
-            "type": "Button",
-            "label": "Visit Us",
-            "altText": "",
-            "url": "/visit-us",
-            "showIcon": false,
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "primary",
-            "elementId": ""
-        },
-        {
             "type": "Link",
             "label": "Get In Touch",
             "altText": "Get In Touch",
@@ -43,6 +32,17 @@
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
+            "elementId": ""
+        },
+        {
+            "type": "Button",
+            "label": "Visit Us",
+            "altText": "",
+            "url": "/visit-us",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "primary",
             "elementId": ""
         }
     ],
