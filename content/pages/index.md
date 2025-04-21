@@ -31,7 +31,7 @@ sections:
           borderRadius: medium
 seo:
   metaTitle: Tamworth Christadelphians
-  metaDescription: This demo site is built with Netlify Create.
+  metaDescription: Welcome to Tamworth Christadelphians
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
