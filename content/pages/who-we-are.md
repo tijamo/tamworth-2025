@@ -25,7 +25,7 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: Who we Are
-  metaDescription: Write here your new page's description including most relevant keywords.
+  metaDescription: Who are Tamworth Christadelphians?
   addTitleSuffix: true
   socialImage: /images/main-hero.jpg
   metaTags: []
