@@ -30,9 +30,8 @@ sections:
         self:
           borderRadius: medium
 seo:
-  metaTitle: Home - Demo site
-  metaDescription: This demo site is built with Netlify Create.
-  socialImage: /images/main-hero.jpg
+  metaTitle: Tamworth Christadelphians
+  metaDescription: Welcome to Tamworth Christadelphians
   type: Seo
 type: PageLayout
 ---
