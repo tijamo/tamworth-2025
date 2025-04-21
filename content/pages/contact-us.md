@@ -70,6 +70,5 @@ seo:
   metaTitle: Contact Tamworth Christadelphians
   metaDescription: Send us a message
   addTitleSuffix: true
-  socialImage: /images/main-hero.jpg
   metaTags: []
 ---
