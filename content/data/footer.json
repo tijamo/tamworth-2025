@@ -21,33 +21,5 @@
     ],
     "copyrightText": "Powered by [Netlify Create](https://www.netlify.com/platform/create/)",
     "colors": "bg-dark-fg-light",
-    "type": "Footer",
-    "primaryLinks": {
-        "type": "FooterLinksGroup",
-        "title": "Company",
-        "links": [
-            {
-                "type": "Link",
-                "label": "About",
-                "altText": "",
-                "url": "/",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "elementId": ""
-            },
-            {
-                "type": "Link",
-                "label": "Blog",
-                "altText": "",
-                "url": "/blog",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "elementId": ""
-            }
-        ]
-    }
+    "type": "Footer"
 }
