@@ -27,6 +27,5 @@ seo:
   metaTitle: Visit Tamworth Christadelphians
   metaDescription: Visit us and see for yourself
   addTitleSuffix: true
-  socialImage: /images/main-hero.jpg
   metaTags: []
 ---
