@@ -5,14 +5,14 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Hello
+      text: Hello ...
       color: text-dark
       styles:
         self:
           textAlign: left
     subtitle: ''
     text: >
-      ..and welcome.
+      ...  and welcome.
 
 
       So, now that you've found us, we encourage you to have a look around and
