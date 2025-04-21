@@ -27,6 +27,5 @@ seo:
   metaTitle: Who we Are
   metaDescription: Who are Tamworth Christadelphians?
   addTitleSuffix: true
-  socialImage: /images/main-hero.jpg
   metaTags: []
 ---
