@@ -32,7 +32,6 @@ sections:
 seo:
   metaTitle: Tamworth Christadelphians
   metaDescription: Welcome to Tamworth Christadelphians
-  socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
 ---
