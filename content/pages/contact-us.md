@@ -12,7 +12,7 @@ sections:
           textAlign: left
     subtitle: ''
     text: |
-      Please use the form below to contact us.
+      Please use this form to contact us.
     actions: []
     colors: bg-light-fg-dark
     styles:
