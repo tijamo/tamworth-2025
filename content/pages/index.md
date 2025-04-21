@@ -12,7 +12,7 @@ sections:
           textAlign: left
     subtitle: ''
     text: >
-      ...  and welcome.
+      ...   and welcome.
 
 
       So, now that you've found us, we encourage you to have a look around and
