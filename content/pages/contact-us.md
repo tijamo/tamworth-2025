@@ -12,7 +12,7 @@ sections:
           textAlign: left
     subtitle: ''
     text: |
-      Please use the form below to contact us.
+      Please use this form to contact us.
     actions: []
     colors: bg-light-fg-dark
     styles:
@@ -67,9 +67,8 @@ slug: /contact-us
 isDraft: false
 seo:
   type: Seo
-  metaTitle: Landing Page
-  metaDescription: Write here your new page's description including most relevant keywords.
+  metaTitle: Contact Tamworth Christadelphians
+  metaDescription: Send us a message
   addTitleSuffix: true
-  socialImage: /images/main-hero.jpg
   metaTags: []
 ---
