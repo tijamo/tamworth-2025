@@ -68,7 +68,7 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: Contact Tamworth Christadelphians
-  metaDescription: Write here your new page's description including most relevant keywords.
+  metaDescription: Send us a message
   addTitleSuffix: true
   socialImage: /images/main-hero.jpg
   metaTags: []
