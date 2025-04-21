@@ -11,11 +11,11 @@ sections:
         self:
           textAlign: left
     subtitle: ''
-    text: >+
+    text: >
       ..and welcome.
 
 
-      So now that you've found us, we encourage you to have a look around and
+      So, now that you've found us, we encourage you to have a look around and
       find out more about us.  You can use our [contact form](/contact-us) for
       any questions or anything you would like to say to us.
 
@@ -30,7 +30,6 @@ sections:
 
 
       Dordon Village Hall, Browns Lane, Dordon, Tamworth B78 1TL
-
     actions: []
     colors: bg-light-fg-dark
     styles:
