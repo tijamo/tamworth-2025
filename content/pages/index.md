@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Hello
+      text: Hello ...
       color: text-dark
       styles:
         self:
