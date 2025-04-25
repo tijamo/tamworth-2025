@@ -13,6 +13,8 @@ sections:
     subtitle: ''
     text: |
       Please use this form to contact us.
+
+      Or email us on tamfam9876\@gmail.com
     actions: []
     colors: bg-light-fg-dark
     styles:
