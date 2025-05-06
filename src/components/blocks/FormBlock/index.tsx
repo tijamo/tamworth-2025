@@ -40,6 +40,7 @@ export default function FormBlock(props) {
                 styles?.self?.borderRadius ? mapStyles({ borderRadius: styles?.self?.borderRadius }) : undefined
             )}
             name={elementId}
+            method='post'
             id={elementId}
             onSubmit={handleSubmit}
             ref={formRef}
