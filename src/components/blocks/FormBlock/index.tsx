@@ -41,8 +41,7 @@ export default function FormBlock(props) {
             )}
             name={elementId}
             id={elementId}
-            method='post'
-            action='/thankyou'
+            onSubmit={handleSubmit}
             ref={formRef}
             data-sb-field-path= {fieldPath}
         >
