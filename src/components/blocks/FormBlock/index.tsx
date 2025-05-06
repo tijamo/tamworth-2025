@@ -41,6 +41,8 @@ export default function FormBlock(props) {
             )}
             name={elementId}
             method='post'
+            action='/thankyou'
+            data-netlify='true'
             id={elementId}
             onSubmit={handleSubmit}
             ref={formRef}
