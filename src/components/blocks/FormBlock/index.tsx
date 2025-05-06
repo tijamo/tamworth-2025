@@ -40,11 +40,10 @@ export default function FormBlock(props) {
                 styles?.self?.borderRadius ? mapStyles({ borderRadius: styles?.self?.borderRadius }) : undefined
             )}
             name={elementId}
+            id={elementId}
             method='post'
             action='/thankyou'
-            data-netlify='true'
-            id={elementId}
-            onSubmit={handleSubmit}
+            //onSubmit={handleSubmit}
             ref={formRef}
             data-sb-field-path= {fieldPath}
         >
